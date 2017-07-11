@@ -3,7 +3,7 @@
     Implementation of Deep Active Inference for
     General Artificial Intelligence
     
-    (c) Kai Ueltzhoeffer, 2017
+    Kai Ueltzhoeffer, 2017
 
 """
 
